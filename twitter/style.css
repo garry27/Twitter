@@ -1,0 +1,212 @@
+	{     
+		margin:0;
+		padding:0;
+	}
+
+/* body */
+body
+	{
+		background:#0b0f0e url('image/bg.jpg');
+		color:#000000;
+		font:0.8em Verdana;
+	}
+
+/* header */
+#header
+	{
+		background:url('image/background_header3.jpg'); 
+		height:280px;
+		margin:0 auto;
+		position:relative;
+		width:1255px;
+	}
+
+#header h1
+	{
+		color:#FFFFFF;
+		font-size:45px;
+		font-weight:600;
+		letter-spacing:2px;
+		position:centre;
+		top:16px;
+	}
+	
+#header h2
+	{
+		color:#FFFFFF;
+		font-size:20px;
+		font-weight:300;
+		letter-spacing:1px;
+		position:centre;
+		top:16px;
+	}
+
+#header ul
+	{
+		list-style:none;
+		position:absolute;
+		top:100px;
+	}
+
+#header  a
+	{
+		color:#fff;
+		display:inline;
+		font-size:1.2em;
+		font-weight:700;
+		height:20px;
+		padding:10px;
+		width:190px;
+		text-decoration:none;
+	}
+
+	
+#header ul li 
+	{
+		color:#fff;
+		display:inline;
+		font-size:1.2em;
+		font-weight:700;
+		height:20px;
+		padding:10px;
+		width:190px;
+		text-decoration:none;
+	}
+
+
+#header ul li a:hover
+	{
+		color: 		#00FFFF;
+		
+		text-decoration:none;
+	}
+
+
+/* content */
+
+#content
+	{
+		height:auto;
+		margin:0 auto;
+		width:1260px;
+		
+	}
+
+/*sidebar */
+
+#sidebar
+	{
+		float:left;
+		width:220px;
+	}
+
+#sidebar h1
+	{
+		border-bottom:2px solid #ccc;
+		color:#ccc;
+		font-size:165%;
+		font-weight:400;
+		line-height:30px;
+		padding: 0 10px;
+	}
+
+#sidebar p
+	{
+		background:  #000;
+		color : #fff;
+		font-family:Comic Sans MS;
+		font-size:180%;
+		line-height:50px;
+		margin:10px 0;
+		padding:10px;
+	}
+
+#sidebar ul li
+	{
+		list-style:none;
+		padding:5px 2px;
+		color:#ccc;
+	}
+	
+#sidebar a
+	{
+		color:#ccc;
+		font-size:140%;
+		display:block;
+		font-family:Aubrey;
+		padding:5px;
+		text-decoration:none;
+	}
+
+#sidebar ul li a
+	{
+		color:#ccc;
+		display:block;
+		font-family:Aubrey;
+		padding:5px;
+		text-decoration:none;
+	}
+	
+
+
+#sidebar a:hover
+	{
+		color:#fff;
+	}
+
+
+
+/* Main */
+
+#main
+	{
+		float:right;
+		width:1020px;
+		color : #ffffff;
+	}
+
+#main p
+	{
+		color:#fff;
+		line-height:20px;
+		padding:10px;
+	}
+
+#main h1
+	{
+		border-bottom:2px solid #ccc;
+		color:#ccc;
+		font-size:165%;
+		font-weight:400;
+		line-height:30px;
+		padding:0 10px;
+	}
+	
+	
+#main a
+	{
+		color:#ccc;
+		font-size:150%;
+		
+		font-family:Aubrey;
+		padding:5px;
+		text-decoration:none;
+	}
+	
+#main a:hover
+	{
+		color:#fff;
+	}
+	
+image2
+	{
+		float:left;
+		margin-left:0px;
+		margin-top:100px;
+	}
+	
+
+	
+	
+	
+	
